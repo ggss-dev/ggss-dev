@@ -1,7 +1,6 @@
 ### Olá, :hand:
 ## Eu sou Gustavo Souza
 - Moro na cidade de João Pessoa-PB :sunrise: :sunglasses:
-- Sou formado em Processamento de Dados pela <a href="https://www.asper.edu.br/" target="_blank">ASPER</a> e Pós-graduado em Desenvolvimento Mobile pela <a href="https://estacio.br/" target="_blank">Estácio de Sá</a>  :computer: :iphone:
 - Sou um entusiasta no mundo da Tecnologia, sempre procurando aprender novas stacks, resolver problemas e construir soluções :heart:
 
  ### Vocês podem me encontrar aqui 👁️‍🗨️
